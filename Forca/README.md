@@ -1,0 +1,1 @@
+Então, fiz esse jogo da forca usando alguns comandos simples de java e usando função/métodos que aprendi.
