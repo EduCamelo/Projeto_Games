@@ -20,6 +20,10 @@ public class Programa {
                 System.out.print("Inicio: ");
                 XadrezPosicao inicio = UI.readXadrezPosicao(input);
 
+                boolean[][] possivelMovimento = PartidaXadrez.PossivelMovimento(inicio);
+                UI.clearScreen();
+                UI.printTabu(PartidaXadrez.getPecas(), possivelMovimento);
+
                 System.out.println();
                 System.out.print("Alvo: ");
                 XadrezPosicao alvo = UI.readXadrezPosicao(input);
