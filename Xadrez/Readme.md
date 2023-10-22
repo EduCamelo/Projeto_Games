@@ -1,7 +1,9 @@
-<h1>AINDA EM DESENVOLVIMENTO</h1>
+<h1>Finalizado</h1>
 
-Para executar o projeto: 
-é só entrar na pasta bin e utilizar o git bash ser executado
-após isso é só escreve a seguinte linha de cmd: java aplicacao/Programa
+Para executar o projeto: é só colocar para rodar e ver se tá funcionando no terminal
 
+Para jogar: digite a letra do local e dps o numero, Source: a2 Target:a4
+
+
+tem jogadas complexas, mas ainda não tem um bot q jogue contra você. 
 
